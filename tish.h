@@ -1,6 +1,7 @@
 #ifndef __tish_h__
 #define __tish_h__
 
+#include <xglob.h>
 #include <xuart.h>
 
 typedef struct
